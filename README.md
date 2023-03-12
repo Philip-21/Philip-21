@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+- I am a dedicated Software Developer with a passion of Developing and maintaining applications that run and scale effectively using different tools and technologies
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
