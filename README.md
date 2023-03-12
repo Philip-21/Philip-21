@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### :man_technologist: About Me :
 - I am a dedicated Software Developer with a passion of Developing and maintaining applications that run and scale effectively using different tools and technologies
 - Tech Role : Backend Developer
+- I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
 - 👯 I’m looking to collaborate on Open Source Projects
 ---
 
