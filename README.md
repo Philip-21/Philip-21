@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-- I am a dedicated Software Developer with a passion of Developing and maintaining applications that run and scale effectively using different tools and technologies
-- Tech Role: Backend Developer
+- I am a dedicated Software Developer with a passion of Developing and maintaining applications that run and scale effectively using different tools and technologies.
+- 👨‍💻 Tech Role: Backend Developer.
 - 🧠 I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 - 📫 Connect With Me: <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
@@ -89,9 +89,9 @@ Here are some ideas to get you started:
 ---
 ###  🔭Projects:
    #### Personnal 
-  - A Bookings and Reservations app built with Go, js ,HTML and CSS [url](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
-  - A Repo that explains concurrency patterns in Go [repo](https://github.com/Philip-21/Goroutine-Codes)  
-  - A Repo that displas the use of Python tools for  Data Visualization [repo](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
+  - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
+  - A Repo that explains concurrency patterns in Go. [repo](https://github.com/Philip-21/Goroutine-Codes)  
+  - A Repo that displas the use of Python tools for  Data Visualization. [repo](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
     
     
     
