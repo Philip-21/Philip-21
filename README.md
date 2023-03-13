@@ -27,16 +27,12 @@ Here are some ideas to get you started:
 - Tech Role Backend Developer
 - 🧠 I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
-- 📫 Connect With Me: 
- <div>
-  <a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
+- 📫 Connect With Me: <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="30" height="30">
   </a>
-  <a href="">
+  <a href="https://twitter.com/Philip_obiora21?t=2fKv9ai2g1N1ZMVkC3r2rg&s=09">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
   </a>
-  
-  
 </div>
 
 
