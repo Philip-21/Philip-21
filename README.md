@@ -92,11 +92,11 @@ Here are some ideas to get you started:
   - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
   - A Repo that explains concurrency patterns in Go. [repo](https://github.com/Philip-21/Goroutine-Codes)  
   - A Repo that displas the use of Python tools for  Data Visualization. [repo](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
-    
-    
-    
-    
-    
+      
+---
+
+### :fire: My Stats :    
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Philip-21&theme=dark&background=000000)](https://git.io/streak-stats)  
     
     
     
