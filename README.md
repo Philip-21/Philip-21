@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-- I am a dedicated Software Developer with a passion of Developing and maintaining applications that run and scale effectively using different tools and technologies.
-- 👨‍💻 Tech Role: Backend Developer.
+- I am a dedicated Software Developer with a passion for Developing and maintaining applications that run and scale effectively using different tools and technologies.
 - 🧠 I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 - 📫 Connect With Me: <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
