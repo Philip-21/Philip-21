@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-- I am a dedicated Software Developer with a passion for Developing and maintaining applications that run and scale effectively using different tools and technologies.
-- 🧠 I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
+-  I am a software developer with a passion for building Backend and Cloud Native Systems.
+-  🧠 I specialize in [Go](https://go.dev/) and 
+   leverage a wide array of tools, technologies, and languages with a vision of solving problems. 
+-  I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 - 📫 Connect With Me: <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="30" height="30">
@@ -41,6 +43,9 @@ Here are some ideas to get you started:
 <div>
   <a href="https://go.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;
+  </a>
+  <a href="https://www.typescriptlang.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30"             height="30"/>&nbsp;
   </a>
   <a href="https://www.python.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
