@@ -25,24 +25,26 @@ Here are some ideas to get you started:
 -  🧠 I specialize in [Go](https://go.dev/) and 
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
-- 📫 Connect With Me: 
-   <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="30" height="30">
+- 📫 Connect With Me:
+   
+  <div>
+   <a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln">
   </a>
 
   <a href="philipuzomaobiora@gmail.com">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" alt="Gmail" width="30" height="30">
-  </a>
-     
-  <a href="https://twitter.com/Philip_obiora21?t=2fKv9ai2g1N1ZMVkC3r2rg&s=09">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
   <a href="https://gophers.slack.com/team/U03CADA9QBX">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Gophers Slack" width="30" height="30">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Gophers Slack">
   </a>
-  
-</div>
+
+  <a href="https://twitter.com/Philip_obiora21?t=2fKv9ai2g1N1ZMVkC3r2rg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+
+  </div>
 
 
 
@@ -102,8 +104,7 @@ Here are some ideas to get you started:
    #### Personnal 
   - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
   - A Subscription service that generates invoice and sends email concurrently using Golang [project](https://github.com/Philip-21/Subscription-Service)
-  - An End-to-End Golang Distributed System that uses different protocols which are rpc, gRPC , REST API's and Queueing 
-    Systems in communicating between services. [project](https://github.com/Philip-21/Subscription-Service)
+  - An End-to-End Golang Distributed System that uses different protocols and Systems in communicating between services. [project](https://github.com/Philip-21/Subscription-Service)
   - A Repo that explains concurrency patterns in Go. [project](https://github.com/Philip-21/Goroutine-Codes)  
   - A Repo that displays the use of Python tools for  Data Visualization. [project](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
       
