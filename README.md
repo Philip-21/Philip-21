@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln">
   </a>
 
-  <a href="philipuzomaobiora@gmail.com">
+  <a href="mailto:philipuzomaobiora@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 
@@ -64,6 +64,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"             height="30"/>&nbsp;
+  </a>
+  <a href="https://en.wikipedia.org/wiki/nodejs">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30"             height="30"/>&nbsp;
   </a>
   <a href="https://fastapi.tiangolo.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="30" height="30"/>&nbsp;
