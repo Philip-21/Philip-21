@@ -30,6 +30,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="30" height="30">
   </a>
 
+  <a href="philipuzomaobiora@gmail.com">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gmail/gmail-original.svg" alt="Gmail" width="30" height="30">
+  </a>
      
   <a href="https://twitter.com/Philip_obiora21?t=2fKv9ai2g1N1ZMVkC3r2rg&s=09">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
@@ -98,9 +101,11 @@ Here are some ideas to get you started:
 ###  🔭Projects:
    #### Personnal 
   - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
-  - A Subscription service that generates invoice and sends email concurrently using Golang [repo](https://github.com/Philip-21/Subscription-Service)
-  - A Repo that explains concurrency patterns in Go. [repo](https://github.com/Philip-21/Goroutine-Codes)  
-  - A Repo that displays the use of Python tools for  Data Visualization. [repo](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
+  - A Subscription service that generates invoice and sends email concurrently using Golang [project](https://github.com/Philip-21/Subscription-Service)
+  - An End-to-End Golang Distributed System that uses different protocols which are rpc, gRPC , REST API's and Queueing 
+    Systems in communicating between services. [project](https://github.com/Philip-21/Subscription-Service)
+  - A Repo that explains concurrency patterns in Go. [project](https://github.com/Philip-21/Goroutine-Codes)  
+  - A Repo that displays the use of Python tools for  Data Visualization. [project](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
       
 ---
 
