@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 
 <!--
 **Philip-21/Philip-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,29 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
----
-
+-->
 ### :man_technologist: About Me :
--  I am a software developer with a passion for building Backend and Cloud Native Systems.
+-  I am a software developer with a passion for developing Backend and Cloud Native Systems.
 -  🧠 I specialize in [Go](https://go.dev/) and 
-   leverage a wide array of tools, technologies, and languages with a vision of solving problems. 
--  I am Adept in [Go](https://go.dev/) and its also my Favourite Language. 
+   leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
-- 📫 Connect With Me: <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
+- 📫 Connect With Me: 
+   <div><a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedln" width="30" height="30">
   </a>
+
+     
   <a href="https://twitter.com/Philip_obiora21?t=2fKv9ai2g1N1ZMVkC3r2rg&s=09">
     <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="Twitter" width="30" height="30">
   </a>
+
+  <a href="https://gophers.slack.com/team/U03CADA9QBX">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Gophers Slack" width="30" height="30">
+  </a>
+  
 </div>
 
 
----
 
 ### :hammer_and_wrench: TechStacks :
 <div>
@@ -94,8 +98,9 @@ Here are some ideas to get you started:
 ###  🔭Projects:
    #### Personnal 
   - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
+  - A Subscription service that generates invoice and sends email concurrently using Golang [repo](https://github.com/Philip-21/Subscription-Service)
   - A Repo that explains concurrency patterns in Go. [repo](https://github.com/Philip-21/Goroutine-Codes)  
-  - A Repo that displas the use of Python tools for  Data Visualization. [repo](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
+  - A Repo that displays the use of Python tools for  Data Visualization. [repo](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
       
 ---
 
