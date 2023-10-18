@@ -20,9 +20,10 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 -->
+
 ### :man_technologist: About Me :
 -  I am a software Engineer with a passion for developing scalable Backend and Cloud Native Systems.
--  🧠 I specialize in [Go](https://go.dev/) and 
+-  🧠 I specialize in [Go](https://go.dev/) and I
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 - 📫 Connect With Me:
