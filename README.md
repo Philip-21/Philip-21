@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### :man_technologist: About Me :
--  I am a software Engineer with a passion for developing scalable Backend and Cloud Native Systems.
+-  I am a software Engineer with a passion for developing scalable software Systems.
 -  🧠 I specialize in [Go](https://go.dev/) and I
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
