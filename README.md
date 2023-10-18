@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 ### :man_technologist: About Me :
--   I am a software Engineer with a passion for developing scalable Backend and Cloud Native Systems.
+-  I am a software Engineer with a passion for developing scalable Backend and Cloud Native Systems.
 -  🧠 I specialize in [Go](https://go.dev/) and 
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
@@ -43,7 +43,6 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/Philip_obiora21?t=2fKv9ai2g1N1ZMVkC3r2rg&s=09">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-
   </div>
 
 
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://www.typescriptlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30"             height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://www.python.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
@@ -63,16 +62,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30"             height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://en.wikipedia.org/wiki/nodejs">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30"             height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://fastapi.tiangolo.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="30" height="30"/>&nbsp;
   </a>
   <a href="https://jupyter.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" **alt="Jupyter" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
@@ -95,11 +94,9 @@ Here are some ideas to get you started:
   <a href="https://kubernetes.io/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>&nbsp;
   </a>
- <!--
-<a href="">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
-</a>
--->
+  <a href="https://linux.org/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
+  </a>
 </div>
     
 ---
