@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 ###  🔭Projects:
    #### Personnal 
   -  A Golang Datavalidator library for transforming data into JSON format [project](https://github.com/Philip-21/DVL)
-  - An End-to-End Golang Distributed System that uses different protocols and Systems in communicating between services. [project](https://github.com/Philip-21/Subscription-Service)
+  - An End-to-End Golang Distributed System that uses different protocols and Systems in communicating between services. [project](https://github.com/Philip-21/Go-Microservice)
   - A Subscription service that generates invoice and sends email concurrently using Golang [project](https://github.com/Philip-21/Subscription-Service)
   - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
   - A Repo that explains concurrency patterns in Go. [project](https://github.com/Philip-21/Goroutine-Codes)  
