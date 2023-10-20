@@ -103,9 +103,9 @@ Here are some ideas to get you started:
 ---
 ###  🔭Projects:
    #### Personnal 
-  - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
-  - A Subscription service that generates invoice and sends email concurrently using Golang [project](https://github.com/Philip-21/Subscription-Service)
   - An End-to-End Golang Distributed System that uses different protocols and Systems in communicating between services. [project](https://github.com/Philip-21/Subscription-Service)
+  - A Subscription service that generates invoice and sends email concurrently using Golang [project](https://github.com/Philip-21/Subscription-Service)
+  - A Bookings and Reservations app built with Go, js ,HTML and CSS. [app](https://bookings-service-application.onrender.com), [github](https://github.com/Philip-21/Bookings-Reservations)
   - A Repo that explains concurrency patterns in Go. [project](https://github.com/Philip-21/Goroutine-Codes)  
   - A Repo that displays the use of Python tools for  Data Visualization. [project](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
       
