@@ -47,8 +47,7 @@ Here are some ideas to get you started:
   </div>
 
 
-
-### :hammer_and_wrench: TechStacks :
+TechStacks :
 <div>
   <a href="https://go.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;
