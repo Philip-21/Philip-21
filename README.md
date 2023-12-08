@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-👨‍💻 About Me :
+### 👨‍💻 About Me :
 -   I am a software Engineer with a passion for developing scalable Backend and Cloud Native Systems.
 -  🧠 I am proficient in [Golang](https://go.dev/) and I
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   </div>
 
 
-TechStacks :
+### 🛠️ TechStacks :
 <div>
   <a href="https://go.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;
@@ -111,7 +111,7 @@ TechStacks :
       
 ---
 
-### :fire: My Stats :    
+###  🔥My Stats :    
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philip-21&show_icons=true&theme=tokyonight)
  
     
