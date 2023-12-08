@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### :man_technologist: About Me :
+👨‍💻 About Me :
 -   I am a software Engineer with a passion for developing scalable Backend and Cloud Native Systems.
 -  🧠 I am proficient in [Golang](https://go.dev/) and I
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
