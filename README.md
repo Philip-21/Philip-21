@@ -102,6 +102,7 @@ Here are some ideas to get you started:
 ---
 ###  🔭Projects:
    #### Personnal 
+  -  A  Backend microservice news aggregator that fetches headline news from different Api endpoints [project](https://github.com/Philip-21/News-Aggregator)
   -  A Golang Datavalidator library for transforming data into JSON format [project](https://github.com/Philip-21/DVL)
   - An End-to-End Golang Distributed System that uses different protocols and Systems in communicating between services. [project](https://github.com/Philip-21/Go-Microservice)
   - A Subscription service that generates invoice and sends email concurrently using Golang [project](https://github.com/Philip-21/Subscription-Service)
