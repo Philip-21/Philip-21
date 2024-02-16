@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👨‍💻 About Me :
--   I am a software Engineer with a passion for developing scalable Software Systems.
+-  👨‍💻 A software Engineer with a passion for developing scalable Software Systems.
 -  🧠 I am proficient in [Golang](https://go.dev/) and I
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
 - 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
