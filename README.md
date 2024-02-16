@@ -98,7 +98,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   </a>
 </div>
-    
+
+ <!--   
 ---
 ###  🔭Projects:
    #### Personnal 
@@ -111,6 +112,7 @@ Here are some ideas to get you started:
   - A Repo that displays the use of Python tools for  Data Visualization. [project](https://github.com/Philip-21/Python-Workspace/blob/master/datavisualizer-checkpoint.ipynb)
       
 ---
+-->
 
 ###  🔥My Stats :    
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Philip-21&show_icons=true&theme=tokyonight)
