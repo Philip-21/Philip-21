@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### 👨‍💻 About Me :
--  👨‍💻 A software Engineer with a passion for developing scalable Software Systems.
+
+-  👨‍💻 A software Engineer with a passion for developing scalable Software Systems in various domains.
 -  🧠 I am proficient in [Golang](https://go.dev/) and I
    leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
-- 👯 I’m looking to collaborate on [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
+- 🔭 I actively contribute to [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
+<!--
 - 📫 Connect With Me:
    
   <div>
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   </div>
+-->
 <!--
 
 ### 🛠️ TechStacks :
