@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ###  👨‍💻 A software Engineer with a passion for developing scalable Software Systems in various domains.
 ###  🧠 I am proficient in [Go](https://go.dev/) and I leverage a wide array of tech stacks and tools in creating software solutions.  
 ###  🔭 I actively contribute to [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
+###  👨‍💼 My Resume resides [here](https://docs.google.com/document/d/1OQcXHVggfPxJlfQblUTsQTN-q6PuTI7ch-4KR7jRz68/edit?usp=sharing)
 <!--
 - 📫 Connect With Me:
    
