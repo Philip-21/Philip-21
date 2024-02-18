@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 -->
 
 
-### -  👨‍💻 A software Engineer with a passion for developing scalable Software Systems in various domains.
-### -  🧠 I am proficient in <a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;</a> and I leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
-### - 🔭 I actively contribute to [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
+###  👨‍💻 A software Engineer with a passion for developing scalable Software Systems in various domains.
+###  🧠 I am proficient in <a href="https://go.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;</a> and I leverage a wide array of tools, technologies, and languages with a vision of solving problems.  
+###  🔭 I actively contribute to [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
 <!--
 - 📫 Connect With Me:
    
