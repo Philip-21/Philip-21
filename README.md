@@ -24,19 +24,32 @@ Here are some ideas to get you started:
  ```go
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
-func main() {
-    Name := "Philip"
-    fmt.Printf("My name is %s\n", Name)
+type Name struct {
+	name string
 }
 
+func (n Name) intro() string {
+	return fmt.Sprintf("My name is %s\n", n.name)
+}
+
+func main() {
+	me := Name{name: "Philip"}
+	fmt.Println(me.intro())
+}
+
+
+
+
 ```
--  #####   👨‍💻 I'm a passionate Software Engineer specializing in building scalable software systems across diverse domains. 
+-  ####   👨‍💻 I'm a passionate Software Engineer specializing in building scalable software systems across diverse domains. 
 
--  #####   🧠 My expertise lies in [Go](https://go.dev/), and I excel in utilizing a broad range of technology stacks to develop innovative software solutions.
+-  ####   🧠 My expertise lies in [Go](https://go.dev/), and I excel in utilizing a broad range of technology stacks to develop innovative software solutions.
 
--  #####   🔭 I am looking to collaborate more on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects
+-  ####   🔭 I am looking to collaborate more on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects
   
 <!--###  👨‍💼 My Resume resides [here](https://docs.google.com/document/d/1OQcXHVggfPxJlfQblUTsQTN-q6PuTI7ch-4KR7jRz68/edit?usp=sharing) -->
 <!--
