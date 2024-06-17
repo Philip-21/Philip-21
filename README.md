@@ -99,10 +99,6 @@ func main() {
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://en.wikipedia.org/wiki/CSS">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="30" height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.postgresql.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="30" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
