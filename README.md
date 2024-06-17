@@ -20,11 +20,24 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 -->
+### 👋 Hello! , 
+ ```go
+package main
 
+import "fmt"
 
-###  👨‍💻 A software Engineer with a passion for developing scalable Software Systems accross various domains.
-###  🧠 I am proficient in [Go](https://go.dev/) and I leverage a wide array of tech stacks and tools in creating software solutions.  
-###  🔭 I actively contribute to [Open Source](https://en.wikipedia.org/wiki/Open_source) Projects
+func main() {
+    Name := "Philip"
+    fmt.Printf("My name is %s\n", Name)
+}
+
+```
+-  #####   👨‍💻 I'm a passionate Software Engineer specializing in building scalable software systems across diverse domains. 
+
+-  #####   🧠 My expertise lies in [Go](https://go.dev/), and I excel in utilizing a broad range of technology stacks to develop innovative software solutions.
+
+-  #####   🔭 I am looking to collaborate more on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects
+  
 <!--###  👨‍💼 My Resume resides [here](https://docs.google.com/document/d/1OQcXHVggfPxJlfQblUTsQTN-q6PuTI7ch-4KR7jRz68/edit?usp=sharing) -->
 <!--
 - 📫 Connect With Me:
@@ -53,51 +66,66 @@ Here are some ideas to get you started:
   <a href="https://go.dev/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://www.typescriptlang.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://www.python.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://en.wikipedia.org/wiki/HTML5">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://en.wikipedia.org/wiki/JavaScript">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://en.wikipedia.org/wiki/nodejs">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
   </a>
-  <a href="https://fastapi.tiangolo.com/">
+ <!-- <a href="https://fastapi.tiangolo.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="30" height="30"/>&nbsp;
-  </a>
+  </a> -->
+  
   <a href="https://jupyter.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/>
   </a>
+  
   <a href="https://en.wikipedia.org/wiki/CSS">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://www.postgresql.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://www.mongodb.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://redis.io/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://git-scm.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
   <a>
+    
   <a href="https://hub.docker.com/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://kubernetes.io/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://linux.org/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   </a>
+  
   <a href="https://cloud.google.com/?hl=en">
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="Linux" width="30" height="30"/>&nbsp;
   </a>
