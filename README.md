@@ -33,7 +33,7 @@ type Name struct {
 }
 
 func (n Name) intro() string {
-	return fmt.Sprintf("My name is %s\n", n.name)
+    return fmt.Sprintf("My name is %s", n.name)
 }
 
 func main() {
