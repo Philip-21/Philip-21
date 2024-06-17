@@ -73,74 +73,69 @@ func main() {
   </a>
   </div>
 -->
-
 ### 🛠️ TechStacks :
 <div>
   <a href="https://go.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="-30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.typescriptlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="-30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.python.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/HTML5">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-  </a>
-  
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/nodejs">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  </a>
- <!-- <a href="https://fastapi.tiangolo.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="FastApi" width="30" height="30"/>&nbsp;
-  </a> -->
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://jupyter.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/>
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://en.wikipedia.org/wiki/CSS">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.postgresql.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres"  alt="Postgres" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.mongodb.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB"  alt="MongoDB" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://redis.io/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://git-scm.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="30" height="30"/>
-  <a>
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://hub.docker.com/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://kubernetes.io/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://linux.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
-  </a>
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://cloud.google.com/?hl=en">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="Linux" width="30" height="30"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCP" alt="GCP" width="30" height="30"/>
   </a>
-  
 </div>
+
 
  <!--   
 ---
