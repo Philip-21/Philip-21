@@ -77,11 +77,11 @@ func main() {
 ### 🛠️ TechStacks :
 <div>
   <a href="https://go.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="-30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="-30"/>&nbsp;
   </a>
   
   <a href="https://www.typescriptlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="-30" height="25"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="-30"/>&nbsp;
   </a>
   
   <a href="https://www.python.org/">
@@ -92,9 +92,6 @@ func main() {
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
   </a>
   
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
-  </a>
   
   <a href="https://en.wikipedia.org/wiki/nodejs">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp;
