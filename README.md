@@ -77,11 +77,11 @@ func main() {
 ### 🛠️ TechStacks :
 <div>
   <a href="https://go.dev/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="-30" height="30"/>&nbsp;
   </a>
   
   <a href="https://www.typescriptlang.org/">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="-30" height="25"/>&nbsp;
   </a>
   
   <a href="https://www.python.org/">
