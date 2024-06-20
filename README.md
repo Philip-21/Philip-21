@@ -45,7 +45,7 @@ func main() {
 
 
 ```
--  ####   👨‍💻 I'm a passionate Software Engineer specializing in building scalable software systems across diverse domains. 
+-  ####   👨‍💻 I am a Software Engineer, with a deep-seated passion for developing scalable software systems across diverse domains. 
 
 -  ####   🧠 My expertise lies in [Go](https://go.dev/), and I excel in utilizing a broad range of technology stacks to develop innovative software solutions.
 
