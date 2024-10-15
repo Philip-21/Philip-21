@@ -47,7 +47,7 @@ func main() {
 ```
 -  ####   👨‍💻  I am a Software Engineer with a deep passion for developing scalable, resilient software systems across diverse domains.
 
--  ####   ⚙️ I specialize in  [Go](https://go.dev/) and i enjoy building robust software systems that adhere to SOLID principles, design patterns, and core engineering concepts.
+-  ####   🧠 I specialize in  [Go](https://go.dev/) and i enjoy building robust software systems that adhere to SOLID principles, design patterns, and core engineering concepts.
   
 -  ####   📚 My skillset spans across various technology stacks, allowing me to create innovative and efficient software solutions.
   
