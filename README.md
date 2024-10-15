@@ -45,19 +45,21 @@ func main() {
 
 
 ```
--  ####   👨‍💻 I am a Software Engineer, with a deep-seated passion for developing scalable software systems across diverse domains.
+-  ####   👨‍💻  I am a Software Engineer with a deep passion for developing scalable, resilient software systems across diverse domains.
 
--  ####   👨‍💻 I enjoy developing resilient scalable software systems, adhering to SOLID priciples, DSA, design patterns and engineering concepts
-
--  ####   🧠 My expertise lies in [Go](https://go.dev/), and I excel in utilizing a broad range of technology stacks to develop innovative software solutions.
-
--  ####   🔭 I am looking to collaborate more on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects
+-  ####   ⚙️ I specialize in  [Go](https://go.dev/) and i enjoy building robust software systems that adhere to SOLID principles, design patterns, and core engineering concepts.
   
+-  ####   📚 My skillset spans across various technology stacks, allowing me to create innovative and efficient software solutions.
+  
+-  ####   🔭 I am actively looking to collaborate on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects and contribute to impactful, community-driven initiatives. 
+
+
 <!--###  👨‍💼 My Resume resides [here](https://docs.google.com/document/d/1OQcXHVggfPxJlfQblUTsQTN-q6PuTI7ch-4KR7jRz68/edit?usp=sharing) -->
 <!--
 - 📫 Connect With Me:
    
   <div>
+🧠
    <a href="https://www.linkedin.com/in/philip-obiora-aa09401a9">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln">
   </a>
