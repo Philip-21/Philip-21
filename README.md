@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### 👋 Hello All, I'm Philip 
+### 👋 Hi There, I'm Philip Obiora
 
--  ####   👨‍💻  I am a Software Engineer with a deep passion for developing scalable, resilient software systems across diverse domains.
+-  ####   💻  A Software Engineer with a deep passion for developing scalable, resilient software systems across diverse domains.
 
 -  ####   🧠 I specialize in  [Go](https://go.dev/) and i enjoy building robust software systems that adhere to SOLID principles, design patterns, and core engineering concepts.
   
