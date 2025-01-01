@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 -->
 
-### 👋 Hello all, I'm Philip 
+### 👋 Hello All, I'm Philip 
 
 -  ####   👨‍💻  I am a Software Engineer with a deep passion for developing scalable, resilient software systems across diverse domains.
 
