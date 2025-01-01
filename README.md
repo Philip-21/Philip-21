@@ -20,31 +20,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 -->
+
 ### 👋 Hello! , 
- ```go
-package main
 
-import (
-	"fmt"
-)
-
-type Name struct {
-	name string
-}
-
-func (n Name) intro() string {
-    return fmt.Sprintf("My name is %s", n.name)
-}
-
-func main() {
-	me := Name{name: "Philip"}
-	fmt.Println(me.intro())
-}
-
-
-
-
-```
 -  ####   👨‍💻  I am a Software Engineer with a deep passion for developing scalable, resilient software systems across diverse domains.
 
 -  ####   🧠 I specialize in  [Go](https://go.dev/) and i enjoy building robust software systems that adhere to SOLID principles, design patterns, and core engineering concepts.
