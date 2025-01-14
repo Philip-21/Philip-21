@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   
 -  ####   📚 My skillset spans across various technology stacks, allowing me to create innovative and efficient software solutions.
   
--  ####   🔭 I am actively looking to collaborate on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects and contribute to impactful, community-driven initiatives. 
+<!---  ####   🔭 I am actively looking to collaborate on [Open Source Software](https://en.wikipedia.org/wiki/Open_source) Projects and contribute to impactful, community-driven initiatives. 
 
 
 <!--###  👨‍💼 My Resume resides [here](https://docs.google.com/document/d/1OQcXHVggfPxJlfQblUTsQTN-q6PuTI7ch-4KR7jRz68/edit?usp=sharing) -->
