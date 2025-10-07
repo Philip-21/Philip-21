@@ -10,7 +10,7 @@
  - **Philosophy:** Code should be simple, secure,  testable, and built for scale
 
 ### ⚙️ Broader Technical Scope
-  While [Go](https://go.dev/) is my core strength, I work with various programming languages and tech stacks, from cloud infrastructure and DevOps tooling to modern frameworks, bringing versatility and depth to every project.
+  - While [Go](https://go.dev/) is my core strength, I work with various programming languages and tech stacks, from cloud infrastructure and DevOps tooling to modern frameworks, bringing versatility and depth to every project.
 
 
 
