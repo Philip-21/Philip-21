@@ -14,5 +14,5 @@
 
 
 
-⚙️ *Open to collaborating on scalable systems and innovative projects — contact info available in my profile.*
+⚙️ *Open to collaborating on projects — contact info available in my profile.*
 
