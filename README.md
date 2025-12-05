@@ -5,7 +5,7 @@
   - I design solutions grounded in **clean architecture**, **SOLID principles**, and **software engineering best practices**.
 
 ### 🧠 Core Expertise
- - **Languages:** [Golang](https://go.dev/),  [Python](https://www.python.org), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+ - **Languages:** [Go](https://go.dev/),  [Python](https://www.python.org), [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
  - **Focus Areas:** Backend architecture, Distributed systems, Cloud Native systems,  System design, Devops 
  - **Philosophy:** Code should be simple, secure,  testable, and built for scale
 
