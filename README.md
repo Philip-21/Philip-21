@@ -9,10 +9,7 @@
  - **Focus Areas:** Backend architecture, Distributed systems, Cloud Native systems,  System design, Devops 
  - **Philosophy:** Code should be simple, secure,  testable, and built for scale
 
-### ⚙️ Broader Technical Scope
+### ⚙️ Technical Scope
   - While [Go](https://go.dev/) is my core strength, I work with various programming languages and tech stacks, from cloud infrastructure and DevOps tooling to modern frameworks, bringing versatility and depth to every project.
 
-
-
-⚙️ *Open to collaborating on projects — contact info available in my profile.*
 
