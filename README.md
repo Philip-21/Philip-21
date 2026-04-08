@@ -1,35 +1,11 @@
-# 👋 Hi, I'm Philip Obiora
+### Software Engineer | Go | Distributed Systems | Cloud-Native Systems
 
-### Software Engineer (Go)
+Hi, I’m Philip Obiora.  
+I build scalable, reliable backend systems.
 
-Building scalable, production-grade systems across AWS, GCP, and Azure. Focused on distributed systems, event-driven architectures, and reliability.
-
----
-
-### 🚀 What I Do
-
-- **Go backend development** — clean architecture, concurrency, performance
-- **Cloud & Kubernetes** — multi-cloud deployments (AWS, GCP, Azure, DigitalOcean)
-- **Event-driven systems** — Kafka, RabbitMQ, WebSockets
-- **DevOps & CI/CD** — GitHub Actions, Kubernetes, infrastructure as code
-
----
-
-### 🧠 Core Tech
-
-| Area |Technologies |
-|------|--------------|
-| Languages | Go, Python, TypeScript, Bash, SQL |
-| Cloud | AWS, Azure, GCP, DigitalOcean |
-| Containers | Docker, Kubernetes (AKS, GKE, DOKS) |
-| Messaging | Kafka, RabbitMQ, WebSockets |
-| Databases | PostgreSQL, MongoDB, Redis |
-
----
-
-<!--
-### 📌 Open Source
-
-- [Daytona](https://github.com/daytonaio/daytona) — CLI improvements, multi-cloud provider support
-- [Hyperledger FireFly](https://github.com/hyperledger/firefly) — Test coverage expansion
--->
+- Design, architect, and ship distributed, event-driven, real-time systems  
+- Strong focus on performance, concurrency, and reliability  
+- Experience across AWS, GCP, and Azure  
+- Work with Kubernetes, CI/CD, and cloud-native infrastructure  
+- Go-first, with Python and TypeScript where needed  
+- Active open source contributor, focused on developer tooling  
