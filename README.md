@@ -1,6 +1,6 @@
 ### Software Engineer | Go | Distributed Systems | Cloud-Native Systems
 
-Hi, I’m Philip Obiora.  
+### I’m Philip Obiora.  
 I build scalable, reliable backend systems.
 
 - Design, architect, and ship distributed, event-driven, real-time systems  
