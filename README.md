@@ -1,4 +1,4 @@
-### Software Engineer | Go | Distributed Systems | SaaS
+### Software Engineer | Go | Python | Distributed Systems | SaaS
 
 ### I'm Philip Obiora.
 I build scalable, reliable backend systems.
