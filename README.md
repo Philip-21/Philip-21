@@ -1,11 +1,12 @@
-### Software Engineer | Go | Python | Distributed Systems | SaaS
+## Software Engineer
 
-### I'm Philip Obiora.
-I build scalable, reliable backend systems.
+Hi, I’m Philip.
 
-- Design, architect, and ship distributed, event-driven, real-time systems
-- Strong focus on performance, concurrency, and reliability
-- Experience across AWS, GCP, and Azure
-- Work with Kubernetes, CI/CD, and modern infrastructure
-- Go-first, with Python backend and LLM integration experience
-- Active open source contributor, focused on developer tooling
+I build scalable, high-performance backend systems.
+
+- Architect and deliver distributed, event-driven systems at scale  
+- Deep focus on concurrency, performance, and system reliability  
+- Cloud experience across AWS, GCP, and Azure  
+- Kubernetes, CI/CD, and production-grade infrastructure  
+- Go-first engineer, with Python and LLM integration experience  
+- Active open-source contributor in cloud-native infrastructure, with a focus on developer tooling  
