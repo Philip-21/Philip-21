@@ -1,12 +1,4 @@
-## Software Engineer
+# Software Engineer | AI & Backend Engineer
 
-Hi, I'm Philip.
 
-I'm a Backend Infrastructure Engineer. I design and build scalable, production-grade backend systems across diverse domains using Go and Python.
-
-- Architect and build distributed, event-driven backend systems
-- Develop backend and cloud-native infrastructure with a focus on performance, reliability, and resilience
-- Build cloud-native applications and platforms across AWS, GCP, and Azure
-- Engineer high-throughput services with a strong focus on concurrency, scalability, and low-latency system design
-- Develop APIs,  data engineering pipelines, and AI-powered backend services
-- Kubernetes, CI/CD, gRPC, and production-grade infrastructure
+Hi, I'm Philip.I am a Software Engineer specializing in high-performance backend infrastructure and production-grade AI systems. Using Go and Python, I design and build concurrent, low-latency backends, distributed event-driven architectures, and scalable AI/ML systems.Beyond building core product architectures, I manage containerized microservices and automated CI/CD pipelines across Kubernetes, AWS, GCP, and Azure. I also actively contribute to open-source infrastructure ecosystems, including multi-cloud orchestration tooling for Daytona and transaction event pipelines for Hyperledger FireFly.
