@@ -1,5 +1,4 @@
-# Software Engineer | AI & Backend Engineer
-
+# Software Engineer
 
 Hi, I'm Philip.
 
