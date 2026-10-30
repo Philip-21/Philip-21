@@ -1,4 +1,3 @@
-# Software Engineer
 
 Hi, I'm Philip.
 
