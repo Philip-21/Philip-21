@@ -1,7 +1,12 @@
+# Hi, I'm Philip 👋
 
-Hi, I'm Philip.
+I'm a Backend Software Engineer with 4 years of experience building production-grade software systems using Go and Python across diverse domains.
 
-I am a Software Engineer specializing in high-performance backend infrastructure and production-grade AI systems. 
-- Using Go and Python, I design and build concurrent and scalable Backend and AI  systems.
-- Beyond building core product architectures i manage containerized microservices and automated CI/CD pipelines across Kubernetes, AWS, GCP, and Azure.
-- I also actively contribute to open-source infrastructure ecosystems, including multi-cloud orchestration tooling for Daytona and transaction event pipelines for Hyperledger FireFly.
+- I design and build scalable backend services, distributed systems, and AI-powered applications.
+- I work with cloud infrastructure, containerized microservices, and CI/CD pipelines across AWS, GCP, Azure, and Kubernetes.
+- I contribute to open-source infrastructure projects, including multi-cloud orchestration tooling for Daytona and integration work within Hyperledger FireFly.
+
+### Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/philip-obiora-aa09401a9/
+- **Resume:** https://flowcv.com/resume/2tku28m7mhdi
