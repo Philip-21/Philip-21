@@ -8,5 +8,5 @@ I'm a Backend Software Engineer with 4 years of experience building production-g
 
 ### Connect with me
 
-- **LinkedIn:** https://www.linkedin.com/in/philip-obiora-aa09401a9/
-- **Resume:** https://flowcv.com/resume/2tku28m7mhdi
+- [**LinkedIn**](https://www.linkedin.com/in/philip-obiora-aa09401a9)
+- [**Resume**](https://flowcv.com/resume/2tku28m7mhdi)
