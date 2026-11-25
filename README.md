@@ -32,5 +32,6 @@ I'm particularly interested in the engineering challenges behind reliable, scala
 
 ## Connect with me
 
+- [**Email**](mailto:philipuzomaobiora@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/philip-obiora-aa09401a9)
 - [**Resume**](https://flowcv.com/resume/2tku28m7mhdi)
