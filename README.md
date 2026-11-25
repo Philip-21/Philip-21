@@ -8,7 +8,7 @@ My core interests and areas of focus include:
 
 - **Backend & Distributed Systems:** Designing scalable backend services, microservices, event-driven architectures, cloud native systems, and high-performance systems.
 - **Cloud & Infrastructure:** Building and deploying containerized applications, managing cloud infrastructure, and working with Kubernetes, Docker, and CI/CD pipelines across AWS, GCP, and Azure.
-- **Enterprise AI Systems:** Building AI-powered backend services and integrating LLMs into enterprise workflows and applications.
+- **Enterprise AI Systems:** Building AI-powered backend services and integrating LLMs and machine learning models into enterprise workflows and applications.
 - **SaaS Platforms:** Developing scalable backend architectures for multi-tenant applications and production platforms.
 
 I'm particularly interested in the engineering challenges behind reliable, scalable, and low-latency systems.
