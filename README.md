@@ -14,8 +14,11 @@ My core interests and areas of focus include:
 I'm particularly interested in the engineering challenges behind reliable, scalable, and low-latency systems.
 
 
-### OPEN-SOURCE CONTRIBUTIONS
-#### Daytona
+## OPEN-SOURCE CONTRIBUTIONS
+### VictoriaMetrics
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/11979): Implemented a fix to support sliding window calculations with gaps
+  
+### Daytona
 -  [Daytona](https://github.com/daytonaio/daytona/pulls?q=is%3Apr+is%3Aclosed+author%3APhilip-21): Contributed Go-based CLI features supporting multi-cloud development environment provisioning
 - [Daytona Docker Provider](https://github.com/daytona/legacy-daytona-provider-docker/pull/41):  Configured and integrated Docker platform SDK for seamless multi-cloud setup
 - [Daytona GCP provider](https://github.com/daytona/legacy-daytona-provider-gcp/pull/3): Configured and integrated GCP cloud provider SDK for seamless multi-cloud setup
@@ -24,8 +27,10 @@ I'm particularly interested in the engineering challenges behind reliable, scala
 - [Daytona Hetzner Provider](https://github.com/daytona/legacy-daytona-provider-hetzner/pull/2): Configured and integrated Hetzner cloud provider SDK for seamless multi-cloud setup
 - [Daytona Digital Ocean Provider](https://github.com/daytona/legacy-daytona-provider-digitalocean/pull/24): Configured and integrated Digital Ocean cloud provider SDK for seamless multi-cloud setup
 
+### Hyperledger
+- [Hyperledger Firefly](https://github.com/hyperledger-firefly/cli/pulls?q=is%3Apr+author%3APhilip-21+is%3Aclosed): Wrote comprehensive Go unit and integration tests for the Web3 Gateway, validating node connectivity, connection stability, and transaction event data pipelines.
 
-### Connect with me
+## Connect with me
 
 - [**LinkedIn**](https://www.linkedin.com/in/philip-obiora-aa09401a9)
 - [**Resume**](https://flowcv.com/resume/2tku28m7mhdi)
