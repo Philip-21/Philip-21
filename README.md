@@ -1,4 +1,6 @@
-# Hi, I'm Philip 👋
+# Philip Uzoma Obiora 
+
+### Backend Engineer | Distributed Systems  | Go | Python 
 
 I'm a Backend Software Engineer with 4 years of experience designing, building, and scaling production-grade software systems using Go and Python.
 
@@ -15,7 +17,7 @@ I'm particularly interested in the engineering challenges behind reliable, scala
 ### OPEN-SOURCE CONTRIBUTIONS
 #### Daytona
 -  [Daytona](https://github.com/daytonaio/daytona/pulls?q=is%3Apr+is%3Aclosed+author%3APhilip-21): Contributed Go-based CLI features supporting multi-cloud development environment provisioning
-- [Daytona Docker Provider](https://github.com/daytona/legacy-daytona-provider-docker/pull/41)
+- [Daytona Docker Provider](https://github.com/daytona/legacy-daytona-provider-docker/pull/41):  Configured and integrated Docker platform SDK for seamless multi-cloud setup
 - [Daytona GCP provider](https://github.com/daytona/legacy-daytona-provider-gcp/pull/3): Configured and integrated GCP cloud provider SDK for seamless multi-cloud setup
 - [Daytona AWS Provider](https://github.com/daytona/legacy-daytona-provider-aws/pull/11): Configured and integrated AWS cloud provider SDK for seamless multi-cloud setup
 - [Daytona Azure Provider](https://github.com/daytona/legacy-daytona-provider-azure/pull/4): Configured and integrated Azure cloud provider SDK for seamless multi-cloud setup
