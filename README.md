@@ -14,14 +14,14 @@ I'm particularly interested in the engineering challenges behind reliable, scala
 
 ### OPEN-SOURCE CONTRIBUTIONS
 #### Daytona
--  [Daytona](https://github.com/daytonaio/daytona/pulls?q=is%3Apr+is%3Aclosed+author%3APhilip-21) : Contributed Go-based CLI features supporting multi-cloud development environment provisioning
+-  [Daytona](https://github.com/daytonaio/daytona/pulls?q=is%3Apr+is%3Aclosed+author%3APhilip-21): Contributed Go-based CLI features supporting multi-cloud development environment provisioning
 - [Daytona Docker Provider](https://github.com/daytona/legacy-daytona-provider-docker/pull/41)
-- [Daytona GCP provider](https://github.com/daytona/legacy-daytona-provider-gcp/pull/3) : Configured and integrated GCP cloud provider SDK for seamless multi-cloud setup
-- [Daytona AWS Provider](https://github.com/daytona/legacy-daytona-provider-aws/pull/11) : Configured and integrated AWS cloud provider SDK for seamless multi-cloud setup
-- [Daytona Azure Provider]()
-- [Daytona Hetzner Provider]()
-- [Daytona Digital Ocean Provider](https://github.com/daytona/legacy-daytona-provider-digitalocean/pull/24)
-- 
+- [Daytona GCP provider](https://github.com/daytona/legacy-daytona-provider-gcp/pull/3): Configured and integrated GCP cloud provider SDK for seamless multi-cloud setup
+- [Daytona AWS Provider](https://github.com/daytona/legacy-daytona-provider-aws/pull/11): Configured and integrated AWS cloud provider SDK for seamless multi-cloud setup
+- [Daytona Azure Provider](https://github.com/daytona/legacy-daytona-provider-azure/pull/4): Configured and integrated Azure cloud provider SDK for seamless multi-cloud setup
+- [Daytona Hetzner Provider](https://github.com/daytona/legacy-daytona-provider-hetzner/pull/2): Configured and integrated Hetzner cloud provider SDK for seamless multi-cloud setup
+- [Daytona Digital Ocean Provider](https://github.com/daytona/legacy-daytona-provider-digitalocean/pull/24): Configured and integrated Digital Ocean cloud provider SDK for seamless multi-cloud setup
+
 
 ### Connect with me
 
