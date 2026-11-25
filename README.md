@@ -16,7 +16,7 @@ I'm particularly interested in the engineering challenges behind reliable, scala
 
 ## OPEN-SOURCE CONTRIBUTIONS
 ### VictoriaMetrics
-- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/11979): Implemented a fix to support sliding window calculations with gaps
+- [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics/pull/11979): Implemented a fix to support sliding window calculations with gaps for timeseries data
   
 ### Daytona
 -  [Daytona](https://github.com/daytonaio/daytona/pulls?q=is%3Apr+is%3Aclosed+author%3APhilip-21): Contributed Go-based CLI features supporting multi-cloud development environment provisioning
